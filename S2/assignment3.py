@@ -89,3 +89,4 @@ for fruit in fruits:
 
 
 print(list(range(0,51,10)))  ## taking the previous example here
+open('assignment1.py','r')
