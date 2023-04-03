@@ -19,3 +19,14 @@ What is dict()
 
 
 ## recursion example
+
+
+Homework - 
+what are the parameters that we have and what do they do
+wap on dumps and using its parameteres
+
+
+raising an exception small program
+
+## simple program on list comprehension: with condition
+(ii) conditionless
