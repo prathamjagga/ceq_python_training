@@ -23,7 +23,7 @@ akash.company = "Amazon"  ## instance attribute
 
 Employee.company = "McKisney & Co."  ## class attribute
 
-print(akash.company)  ## prints Godrej
+print(akash.company)  ## prints Amazon
 
 akash.hello()
 
