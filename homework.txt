@@ -30,3 +30,12 @@ raising an exception small program
 
 ## simple program on list comprehension: with condition
 (ii) conditionless
+
+
+homework - 
+
+if an object has both instance and class attribute, 
+which will get prefernce?
+
+create a class with constructor, make 3 objects with diff
+props 
