@@ -15,6 +15,7 @@ Solution.attr1 = "I am changed"  ## class attr
 
 print(Solution.attr1)
 
+
 print(obj1.attr1)
 
 Solution.func(2)
